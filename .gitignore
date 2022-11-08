@@ -1,1 +1,4 @@
-* .js
+# *.js
+*.js
+d.txt
+!f.js
